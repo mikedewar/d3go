@@ -1,4 +1,4 @@
-god3
+d3go
 ====
 
 generate d3 graphics from golang
